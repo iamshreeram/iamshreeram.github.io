@@ -116,7 +116,7 @@ body {
   font-family: 'Lato', sans-serif;
   color: rgba(0, 0, 0, 0.66);
   background-color: #FEFEFE;
-  font-size: 12px;
+  font-size: 15px;
   line-height: 1.5;
   letter-spacing: normal;
   font-weight: 400;
@@ -170,7 +170,7 @@ header .title h1 {
 
 header .title h1 small {
   font-weight: 400;
-  font-size: 0.25em;
+  font-size: 0.29em;
 }
 
 header .info ul li a {
