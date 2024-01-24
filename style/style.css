@@ -50,7 +50,7 @@ main a {
 /* Header */
 
 header {
-  background-color: #E0E0E0;
+  background-color: #b7e045;
   padding: 26px 0 18px;
 }
 
@@ -115,7 +115,7 @@ header .info ul li {
 body {
   font-family: 'Lato', sans-serif;
   color: rgba(0, 0, 0, 0.66);
-  background-color: #FEFEFE;
+  background-color: #ffffff;
   font-size: 15px;
   line-height: 1.5;
   letter-spacing: normal;
