@@ -100,12 +100,8 @@ header .info ul li {
 }
 
 .subsection {
-  width: 100%
+  width: 100%;
   margin: auto;
-  
-  /**Shreeram
-  text-align: center;
-  */
 }
 
 /**************
@@ -175,4 +171,20 @@ header .title h1 small {
 
 header .info ul li a {
   color: inherit;
+}
+
+
+#header {
+  background-color: red;
+}
+
+#footer {
+  background-color: red;
+}
+
+footer {
+  padding: 10px;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
 }
